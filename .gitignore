@@ -1,0 +1,4 @@
+# agar file tidak ikut ke git
+node_modules
+.env
+uploads
